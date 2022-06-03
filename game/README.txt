@@ -10,5 +10,3 @@ OTHER NOTES:
 	- sprite.py contains sprite class
 	- run comp1501_w21_101141633_a2_main.py to play the game
 	- art by me
-
-	Caroline is a brilliant student
